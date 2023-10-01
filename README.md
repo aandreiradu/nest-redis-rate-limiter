@@ -11,11 +11,9 @@
 
 ## Prerequisites
 
-```bash
 [Node](https://nodejs.org/en)
 [Nest](https://nestjs.com/)
 [Redis](https://redis.io/)
-```
 
 ## Installation
 
